@@ -17,11 +17,12 @@ const photo = {
   offset: imgMaxNum,
   init: function () {
     var that = this;
-    $.getJSON(imgDataPath, function (data) {
-      that.render(that.page, data);
+     setTimeout(() => {
+      console.log(imgDataPath);
+      that.render(that.page, imgDataPath);
       //that.scroll(data);
-      that.eventListen(data);
-    });
+      that.eventListen(imgDataPath);
+     }, 0)
   },
   constructHtml(options) {
     const {
