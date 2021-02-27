@@ -1,4 +1,4 @@
-var imgDataPath = "../photos/photos.json"; //图片名称高宽信息json文件路径
+var imgDataPath = "./images/photos.json"; //图片名称高宽信息json文件路径
 var imgPath = "https://cdn.jsdelivr.net/gh/ddshiyu/zredImage@v1.2/images/"; //图片访问路径
 var imgMaxNum = 50; //图片显示数量
 
