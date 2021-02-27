@@ -1,0 +1,23 @@
+{
+  "name": "zredImage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "create.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddshiyu/zredImage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ddshiyu/zredImage/issues"
+  },
+  "homepage": "https://github.com/ddshiyu/zredImage#readme",
+  "dependencies": {
+    "image-size": "^0.9.4"
+  }
+}
