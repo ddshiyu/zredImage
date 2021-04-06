@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/ddshiyu/zredImage#readme",
   "dependencies": {
-    "image-size": "^0.9.4"
+    "image-size": "^0.9.7"
   }
 }
