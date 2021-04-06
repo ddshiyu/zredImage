@@ -1,5 +1,5 @@
-var imgDataPath = [{"name":"工作","children":["518.504 0207992309313730054f103ca463023.jpg","266.247 1a5222d0e06302387694c9eec924862.jpg","960.1995 1f1b961e4191a290dd7805cf119a946.jpg","514.398 2ba414a88c5b8e43579ffbdc43a916b.jpg","796.651 66a739ef5b1a625d379e8b0b8ba0bac.jpg","1080.1080 ba29b87add3014ca44c9370ff6ea4c3.jpg"]},{"name":"日常","children":["1440.1080 b54184e2d47c153d6bf604cea8f0263.jpg","1440.1080 db80147b7ab0a3878cd38f79d5402ff.jpg","1440.1080 fb2dec6f48b0f8366ebfb2fda564d86.jpg"]}]; //图片名称高宽信息json文件路径
-var imgPath = "https://cdn.jsdelivr.net/gh/ddshiyu/zredImage@v1.2/images/"; //图片访问路径
+var imgDataPath = [{"name":"佛山之旅","children":["1080.1440 2321617694409_.pic.jpg","1080.1440 2331617694410_.pic.jpg","1440.1080 2341617694410_.pic.jpg","1440.1080 2351617694410_.pic.jpg","1440.1080 2361617694411_.pic.jpg","1080.1440 2371617694411_.pic.jpg","1080.1440 2381617694411_.pic.jpg","1440.1080 2391617694411_.pic.jpg"]},{"name":"日常","children":["1440.1080 b54184e2d47c153d6bf604cea8f0263.jpg","1440.1080 db80147b7ab0a3878cd38f79d5402ff.jpg","1440.1080 fb2dec6f48b0f8366ebfb2fda564d86.jpg"]},{"name":"工作","children":["518.504 0207992309313730054f103ca463023.jpg","266.247 1a5222d0e06302387694c9eec924862.jpg","960.1995 1f1b961e4191a290dd7805cf119a946.jpg","514.398 2ba414a88c5b8e43579ffbdc43a916b.jpg","796.651 66a739ef5b1a625d379e8b0b8ba0bac.jpg","1080.1080 ba29b87add3014ca44c9370ff6ea4c3.jpg"]}]
+var imgPath = "https://cdn.jsdelivr.net/gh/ddshiyu/zredImage@v2.0/images/"; //图片访问路径
 var imgMaxNum = 50; //图片显示数量
 
 var windowWidth =
